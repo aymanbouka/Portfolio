@@ -1,0 +1,45 @@
+div.msg_bbl {
+  background-color: #ddd;
+  padding: 5px 10px;
+  border-radius: 10px;
+  color: #555;
+  margin-bottom: 5px;
+}
+
+.back_button {
+  position: relative;
+  right: 45%;
+}
+
+.text-center b {
+  font-size: 20px;
+}
+
+.back_button a:hover {
+  text-decoration: none;
+}
+
+.back_button a:link {
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
