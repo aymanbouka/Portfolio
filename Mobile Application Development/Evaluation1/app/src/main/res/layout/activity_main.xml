@@ -15,6 +15,7 @@
         android:ems="10"
         android:hint="Enter A"
         android:inputType="number"
+        android:text="@string/EnterA"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -25,6 +26,7 @@
         android:ems="10"
         android:hint="Enter B"
         android:inputType="number"
+        android:text="@string/EnterB"
         app:layout_constraintBottom_toBottomOf="@+id/editTextNumberOne"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="@+id/editTextNumberOne" />
